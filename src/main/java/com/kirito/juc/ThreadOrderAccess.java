@@ -1,4 +1,4 @@
-package com.kirito.juc.productconsumer;
+package com.kirito.juc;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
